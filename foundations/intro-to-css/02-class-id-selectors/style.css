@@ -1,9 +1,19 @@
-p {
+.odd {
     background-color: lightpink;
     font-family: Verdana,"DejaVu Sans", sans-serif;
 }
-#idselector {
+.ex3 {
+    font-size: 24px;
+}
+#two {
     color: blue;
     font-size: 36px;
     font-weight: bold;
 }
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+<!--Re-did assignment since i clearly misunderstood the point of using class and id selectors ONLY to get the desired outcome, i initially used a mixture of id and inline css to achieve the outcome-->
